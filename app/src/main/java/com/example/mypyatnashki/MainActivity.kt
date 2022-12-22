@@ -85,7 +85,7 @@ class MainActivity : AppCompatActivity() {
                 .setMessage(
                     "Arrange the numbers from 1 to 15 starting from the" +
                             " top left corner to the bottom right corner. " +
-                            "An empty cell should render in the lower right corner"
+                            "An empty cell should render in the lower right corner.Use swipes"
                 )
                 .setPositiveButton("Back", null)
                 .create()
